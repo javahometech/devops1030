@@ -2,4 +2,4 @@ Country India
 Name Hari
 Course DevOps & Cloud
 Course Fee 15000/-
-City Banglore, 460067
+City Pune, 460067
