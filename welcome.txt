@@ -1,2 +1,3 @@
 Name Hari
 Course DevOps & Cloud
+Course Fee 15000/-
